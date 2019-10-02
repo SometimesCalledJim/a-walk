@@ -1,2 +1,7 @@
-* testing this list thing
-    * testing this sublist thing
+# brainstorm
+WARNING: THIS DOCUMENT CONTAINS SPOILERS
+
+* chest
+    * key
+* hollow tree
+* 

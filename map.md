@@ -35,4 +35,4 @@ o: fishing spot -> bridge, rapids\
 p: underground cave entrance -> cave entrance, stalactite/stalagmite caverns\
 1: underground intersection one -> underground intersection two, underground pool with boat, hidden cave exit behind waterfall\
 2: underground intersection two -> underground interesction one, chest cavern, stalactite/stalagmite cavern\
-~: river\
+~: river

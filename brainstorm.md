@@ -18,4 +18,11 @@ WARNING: THIS DOCUMENT CONTAINS SPOILERS
 * large rocks
 * idol
 * arrowhead
+* underground pool
+    * rowboat
+* fishing rod
+* vial
+* crystals
+* mortar and pestle
+* cauldron
 

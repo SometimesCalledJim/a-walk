@@ -52,7 +52,7 @@ h3.written-in-ink {
     margin: 0;
     padding-top: 6px;
     padding-bottom: 6px;
-    top: 0;
+    bottom: 0;
 }
 
 .dark h3.written-in-ink {

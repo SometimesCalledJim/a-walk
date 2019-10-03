@@ -1,4 +1,6 @@
-// Copyright SometimesCalledJim
+# title: A Walk
+# author: SometimesCalledJim
+
 You are on a walk.
 + [Walk a bit] -> start
 

@@ -66,8 +66,8 @@ h3.written-in-ink {
     display: block;
     margin: 0;
     padding: 0;
-    -webkit-overflow-scrolling: touch;
-    overflow: scroll;
+    /* -webkit-overflow-scrolling: touch; */
+    /* overflow: scroll; */
     height: 100%;
     width: 100%;
     top: 0;

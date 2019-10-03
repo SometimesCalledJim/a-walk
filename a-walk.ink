@@ -15,4 +15,5 @@ You are standing at a fork in the trail. There is a small sign pointing in two d
 A cliff -> END
 
 === bridge ===
-a bridge -> END
+a bridge
++ [next] -> bridge

@@ -1,5 +1,5 @@
 # title: A Walk
-# author: SometimesCalledJim
+# author: James Darren Muir, aka SometimesCalledJim
 
 You are on a walk.
 + [Walk a bit] -> start

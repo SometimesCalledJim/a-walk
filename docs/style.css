@@ -61,6 +61,7 @@ h3.written-in-ink {
 
 
 /* Seems necessary to make iframes work on itch.io on mobile iOS :-( */
+/* modified for embedding in google sites iframe container */
 .outerContainer {
     position: absolute;
     display: block;
@@ -68,10 +69,14 @@ h3.written-in-ink {
     padding: 0;
     /* -webkit-overflow-scrolling: touch; */
     /* overflow: scroll; */
+    /* eliminates scroll bars and disallows scrolling*/
     overflow: hidden;
     height: 100%;
     width: 100%;
-    top: 0;
+    /* top: 0; */
+    /* makes most recent text always visible at the bottom of the screen
+    old text rolls up past the top*/
+    bottom: 0;
     left: 0;
 }
 

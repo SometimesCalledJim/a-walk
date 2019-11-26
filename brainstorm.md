@@ -25,4 +25,5 @@ WARNING: THIS DOCUMENT CONTAINS SPOILERS
 * crystals
 * mortar and pestle
 * cauldron
+* go down waterfall in a barrel?
 

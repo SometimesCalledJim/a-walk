@@ -26,4 +26,4 @@ WARNING: THIS DOCUMENT CONTAINS SPOILERS
 * mortar and pestle
 * cauldron
 * go down waterfall in a barrel?
-
+* hide the hidden cave entrance at the pool at the waterfall base until you come out of it
